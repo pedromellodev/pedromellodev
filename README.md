@@ -3,7 +3,7 @@
 Saiba um pouco sobre mim:
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estou estudando: Angular e Node
+- 🌱 Estou estudando: AngularJS e NodeJS
 - 📫 Contate-me: pedromello19122006@gmail.com
 - 😄 Pronomes: ele/dele
 

@@ -1,11 +1,11 @@
-### Olá! Sou Pedro Mello 🚀
+### Hello there, I'm Pedro Mello 🚀
 
-Saiba um pouco sobre mim:
+Know more about me:
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estou estudando: Go
-- 📫 Contate-me: pedromello19122006@gmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 Actually working with Back-end
+- 🌱 Studying: Go
+- 📫 Contact me: pedromello19122006@gmail.com
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/pedromellodev">

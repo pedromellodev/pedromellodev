@@ -11,21 +11,14 @@
 
 - 👨‍💻 More at [pedromellodev](https://github.com/pedromellodev)
 
-<!--
 
 <br><br>
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedromellodev&show_icons=true&theme=vision-friendly-dark" alt="pedromellodev's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromellodev&layout=compact&theme=vision-friendly-dark" alt="pedromellodev's most languages"/>
-</p>
--->
-
-<br><br>
+<div align="center">
+  <img align="center" stye="display:block;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromellodev&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## Contact
 

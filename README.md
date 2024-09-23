@@ -3,7 +3,7 @@
 
 - 🔥 Python Developer & Future Data Scientist
 
-- 🔭 I’m currently working at [Cobasi](https://www.cobasi.com.br/)
+- 🔭 Currently at the sixth semester on **Systems Development course**
 
 - ▶️ Let´s play together [youtube.com/pedromellodev](https://youtube.com/pedromellodev)
 

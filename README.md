@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Mello</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromellodev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Python Developer & Future Data Scientist
+- 🔥 Mobile/Backend Developer
 
 - 🔭 Currently at the sixth semester on **Systems Development course**
 

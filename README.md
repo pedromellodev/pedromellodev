@@ -3,7 +3,7 @@
 
 - 🔥 Mobile/Backend Developer
 
-- 🔭 Currently at the sixth semester on **Systems Development course**
+- 🔭 Graduated in **Systems Development course** at Etec Albert Einstein
 
 - ▶️ Let´s play together [youtube.com/pedromellodev](https://youtube.com/pedromellodev)
 

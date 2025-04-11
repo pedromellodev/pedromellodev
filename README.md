@@ -5,7 +5,7 @@
 
 - 🔭 Graduated in **Systems Development course** at Etec Albert Einstein
 
-- ▶️ Let´s play together [youtube.com/dropethedev](https://youtube.com/dropethedev)
+- ▶️ Let´s play together [youtube.com/dropethedev](https://www.youtube.com/@dropethedev)
 
 - 💬 Ask me about **Python, Django, SQL, Node.JS**
 

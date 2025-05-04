@@ -1,6 +1,6 @@
 <h1 align="center">Opa, eu sou o Pedro 👋</h1>
 <p align="center">
-  <img src=["https://avatars.githubusercontent.com/u/XXXXX?v=4"](https://avatars.githubusercontent.com/u/92114706?v=4) width="120" style="border-radius:50%;" alt="Pedro's avatar"/>
+  <img src=(https://avatars.githubusercontent.com/u/92114706?v=4) width="120" style="border-radius:50%;" alt="Pedro's avatar"/>
 </p>
 <p align="center">
   <b>Desenvolvedor Fullstack | Python • Django • JS • React</b>

@@ -31,7 +31,6 @@
 ### 🌎 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/pedromellodev)
-- [GitHub](https://github.com/pedromellodev)
 - ✉️ pedromello19122006@gmail.com
 
 ---

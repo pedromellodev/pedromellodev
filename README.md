@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou o Pedro !</h1>
+<h1 align="center">Hello, eu sou o Pedro !</h1>
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/22206682/file/original-ead4a3a44e67a28e31af2c6d66971d05.gif" width="340" style="border-radius: 50%" alt="Pedro's avatar"/>
 </p>

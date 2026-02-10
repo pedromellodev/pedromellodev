@@ -3,14 +3,14 @@
   <img src="https://cdn.dribbble.com/userupload/22206682/file/original-ead4a3a44e67a28e31af2c6d66971d05.gif" width="340" style="border-radius: 50%" alt="Pedro's avatar"/>
 </p>
 <p align="center">
-  <b>Desenvolvedor Backend | Python • Django • JS • React</b>
+  <b>Desenvolvedor Fullstack | Python • Django • JS • React</b>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC cursando 2° semestre.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na FATEC cursando 2° semestre.
 - 💻 Amante de tecnologia e inovação
 - 🧠 Em constante evolução: foco em Python e Backend geral
 

@@ -3,7 +3,7 @@
   <img src="https://cdn.dribbble.com/userupload/22206682/file/original-ead4a3a44e67a28e31af2c6d66971d05.gif" width="340" style="border-radius: 50%" alt="Pedro's avatar"/>
 </p>
 <p align="center">
-  <b>Desenvolvedor Fullstack | Python • Django • JS • React</b>
+  <b>Desenvolvedor Fullstack | Python • Django • Node • Java • SQL</b>
 </p>
 
 ---
